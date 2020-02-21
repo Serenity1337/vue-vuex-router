@@ -1,4 +1,4 @@
-# trello-vue
+# vue-vuex-router
 
 ## Project setup
 ```
